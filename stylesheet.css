@@ -1,0 +1,47 @@
+body {
+    background-image: url("restaurant2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+div {
+    color: whitesmoke;
+}
+
+.icons {
+    padding: 10px;
+    text-align: right;
+}
+
+#header {
+    box-align: right;
+}
+
+.btn {
+    background-color: black;
+    border: 2px solid rgb(250, 250, 250);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+.details {
+    padding: 10%;
+    margin: 10%;
+    width: 35%;
+    height: 85%;
+    text-align: left;
+    border: 2px solid black;
+    background-color: rgb(222, 223, 174, 0.6);
+    font-weight: bold;
+    color: black;
+}
